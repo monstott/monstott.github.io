@@ -1,11 +1,11 @@
 # Site settings
 author: Matthew Onstott
-title: 
+title: Onstott's Observations
 header-img: img/home-bg.png
 email: matthew.onstott@bep.gov
 copyright_name: Matthew Onstott
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Digital Space for Data Science and Statistics.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  monstott
